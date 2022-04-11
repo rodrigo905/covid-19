@@ -2,6 +2,7 @@
   "name": "covid10-dio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/rodrigo905/covid-19",
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@material-ui/lab": "^4.0.0-alpha.51",
@@ -16,7 +17,8 @@
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
-    "eslint": "eslint --ext .jsx,.js src"
+    "eslint": "eslint --ext .jsx,.js src",
+    "publicar": "npm run build && .node_modules/.bin/gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
