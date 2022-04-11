@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/rodrigo905/covid-19/static/js/main.adebac12.js",
+    "static/media/covid.jpg": "/rodrigo905/covid-19/static/media/covid.53cfdf156cd1d18cd291.jpg",
+    "index.html": "/rodrigo905/covid-19/index.html",
+    "static/media/refresh.svg": "/rodrigo905/covid-19/static/media/refresh.6370dfaa527cd227256755624dfc2041.svg",
+    "main.adebac12.js.map": "/rodrigo905/covid-19/static/js/main.adebac12.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.adebac12.js"
+  ]
+}
