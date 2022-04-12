@@ -5,15 +5,10 @@ Este projeto é um site feito com React para mostrar dados da COVID-19 pelo mund
 Dependencias usadas no projeto, em linha de código:
 
 npm i styled-components
-
 npm i @material-ui/core
-
 npm i @material-ui/lab
-
 npm i --save-dev customize-cra
-
 npm i --save-dev react-app-rewired
-
 
 Observação pessoal: eu tive problemas ao baixar as dependencias material-ui, que foram resolvidas adicionando o comando --legacy-peer-deps após o comando de instalação do repositório. 
 
